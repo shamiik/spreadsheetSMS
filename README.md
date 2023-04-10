@@ -1,2 +1,2 @@
 # spreadsheetSMS
-SMS send from Android (data from Google Spreadsheet)
+SMS send from Phone to Phone (data from Google Spreadsheet)
